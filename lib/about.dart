@@ -19,12 +19,12 @@ static String id = 'About';
           ),
         ),
         width: double.infinity,
-        child: Padding(
-          padding: const EdgeInsets.all(16.0),
+        child: const Padding(
+          padding: EdgeInsets.all(16.0),
           child: SingleChildScrollView(
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
-              children: const [
+              children: [
                 Text(
                     'What is breast Cancer ?',
                 style: TextStyle(

@@ -28,11 +28,11 @@ class Benign extends StatelessWidget {
           ),
         ),
         width: double.infinity,
-        child: Padding(
-          padding: const EdgeInsets.all(16.0),
+        child: const Padding(
+          padding: EdgeInsets.all(16.0),
           child: SingleChildScrollView(
             child: Column(
-              children: const [
+              children: [
                 Text(
                   'How is benign breast disease managed or treated ?',
                   style: TextStyle(

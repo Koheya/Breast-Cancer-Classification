@@ -30,11 +30,11 @@ class Malignant extends StatelessWidget {
             fit: BoxFit.cover,
           ),
         ),
-        child: Padding(
-          padding: const EdgeInsets.all(16.0),
+        child: const Padding(
+          padding: EdgeInsets.all(16.0),
           child: SingleChildScrollView(
             child: Column(
-              children: const [
+              children: [
                 Text(
                   'What type of drug treatment(s) might I get ?',
                   style: TextStyle(

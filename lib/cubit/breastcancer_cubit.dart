@@ -41,6 +41,7 @@ class BreastcancerCubit extends Cubit<BreastcancerState> {
   final data = BreastCancerModel.fromJson(response.data);
   print('my data is ${data}');
   emit(BreastcancerSuccess(data));
+// ignore: deprecated_member_use
 } on DioError catch (e) {
   print('fffff${e.toString()}');
 }
