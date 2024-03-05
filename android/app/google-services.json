@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "844984387565",
+    "project_id": "breast-cancer-prediction-42ecb",
+    "storage_bucket": "breast-cancer-prediction-42ecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844984387565:android:5394dcc38c655e4ad349e4",
+        "android_client_info": {
+          "package_name": "com.example.breast_cancer_prediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844984387565-numefude3hpveg6kpsrbnfb2p932ri0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.breast_cancer_prediction",
+            "certificate_hash": "461442c3d383b8968c5f7b51c5b1d2b0c6710013"
+          }
+        },
+        {
+          "client_id": "844984387565-s6cvftdmb5l3jivls4gijt6gt2issfhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy38JWpi7vN61mmf5m-5H9N499pH4rnDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844984387565-s6cvftdmb5l3jivls4gijt6gt2issfhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
